@@ -16,7 +16,12 @@
 
 ---
 
-**Stacer-X** is a fork of [QuentiumYT/Stacer](https://github.com/QuentiumYT/Stacer) that
+This public repository is a fork of [s4rt4/Stacer-x](https://github.com/s4rt4/Stacer-x).
+It includes Simplified Chinese / English language switching and optional system-tray
+background monitoring. The corresponding contribution is available in
+[upstream PR #1](https://github.com/s4rt4/Stacer-x/pull/1).
+
+**Stacer-X** builds on [QuentiumYT/Stacer](https://github.com/QuentiumYT/Stacer) and
 rewrites the entire front-end in **Qt Quick / QML**, styled after **Microsoft PC Manager**
 (Fluent dark). The proven `stacer-core` C++ backend is reused unchanged — every number you
 see still comes from the original system probes — but the interface is rebuilt from scratch:

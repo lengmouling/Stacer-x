@@ -1,7 +1,9 @@
 # Stacer-X 中文说明
 
 Stacer-X 是基于 Qt Quick 的 Linux 系统监控与管理工具，提供系统资源、进程、服务和启动项管理。
-项目地址：[s4rt4/Stacer-x](https://github.com/s4rt4/Stacer-x)。
+本仓库：[lengmouling/Stacer-x](https://github.com/lengmouling/Stacer-x)。
+上游项目：[s4rt4/Stacer-x](https://github.com/s4rt4/Stacer-x)；相关更新已提交
+[上游 PR #1](https://github.com/s4rt4/Stacer-x/pull/1)。
 
 ## 本次更新
 
